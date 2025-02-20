@@ -4,7 +4,7 @@
 
 <hr>
 
-### [Анализ продуктовых метрик](https://github.com/ElenaAnalyst/stat_homeworks/blob/main/1_lesson.ipynb)
+### [Анализ продуктовых метрик](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/Analysis_product_metrics.ipynb)
 
 **Методы и подходы:**
 
@@ -25,7 +25,7 @@
 
 <hr>
 
-### [Анализ динамики аренды велосипедов в Лондоне](https://github.com/ElenaAnalyst/stat_homeworks/blob/main/2_lesson.ipynb)
+### [Анализ динамики аренды велосипедов в Лондоне](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/Analysis_rental_dynamics.ipynb)
 
 Использование инструментария **доверительных интервалов** для определения критерия **аномальности**.
 
@@ -48,7 +48,7 @@
 
 <hr>
 
-### [Анализ результатов A/B теста для новой функции в приложении курьеров](https://github.com/ElenaAnalyst/stat_homeworks/blob/main/3_lesson.ipynb)
+### [Анализ результатов A/B теста для новой функции в приложении курьеров](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/Analysis_ABtest_results.ipynb)
 **Сравнение двух групп** с применением **t-критерия**.
 
 В рамках A/B теста было проведено сравнение двух алгоритмов доставки у курьеров: старого и нового, который позволяет курьерам выбирать заказы "по пути домой". Цель эксперимента — выяснить, влияет ли новый алгоритм на среднее время доставки, а также помочь бизнесу принять решение о полном внедрении фичи.
