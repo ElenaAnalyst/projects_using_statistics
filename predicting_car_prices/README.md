@@ -1,14 +1,17 @@
 ## [Прогнозирование стоимости автомобилей с использованием линейной регрессии](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/predicting_car_prices/cars.ipynb)
 Применение **множественного регрессионого анализа**. Ознакомиться с файлом решения тут (нажать) ⤴️
 
-### Стек:
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scipy.stats](https://img.shields.io/badge/-scipy.stats-FFF?style=for-the-badge&logo=scipy&logoColor=blue)
-![Seaborn](https://img.shields.io/badge/-Seaborn-FFF?style=for-the-badge&logo=seaborn&logoColor=blue)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFF?style=for-the-badge&logo=matplotlib&logoColor=blue)
+### 🛠️ Стек:
+<div>
+<img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height=35"/>&nbsp;
+<img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-scipy.stats-FFF?style=for-the-badge&logo=scipy&logoColor=blue" title="scipy.stats" alt="scipy.stats" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Seaborn-FFF?style=for-the-badge&logo=seaborn&logoColor=blue" title="Seaborn" alt="Seaborn" height="35"/>&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-FFF?style=for-the-badge&logo=matplotlib&logoColor=blue" title="Matplotlib" alt="Matplotlib" height="35"/>&nbsp;
+</div>
 
-### Методы и подходы:
+
+### 📂 Методы и подходы:
 
 - Исследовательский анализ данных (EDA);
 - Обработка категориальных переменных (One-Hot Encoding);
@@ -17,7 +20,7 @@
 - Оценка качества моделей с помощью коэффициента детерминации;
 - Анализ значимости предикторов.
 
-### В ходе проекта решены следующие задачи:
+### 📊 В ходе проекта решены следующие задачи:
 
 - Загружены и предобработаны данные: проверены типы данных, выявлены пропуски, исправлены ошибки в названиях марок автомобилей;
 - Создан новый признак — марка автомобиля, исправлены некорректные наименования;
