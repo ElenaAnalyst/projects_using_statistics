@@ -44,13 +44,13 @@
 
 ### Описание данных:
 
-[**AB_task_1**](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/AB_test/AB_task_1.csv) (тест разрешения фотографий блюд в приложении: пользователям показывались либо прямоугольные, либо новые квадратные): 
+[**Датасет 1**](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/AB_test/AB_task_1.csv) (тест разрешения фотографий блюд в приложении: пользователям показывались либо прямоугольные, либо новые квадратные): 
 
 - `id` – id клиента в эксперименте;
 - `group` – в каком разрешении показывались картинки (A – прямоугольные 16:9, B – квадратные, C – прямоугольные 12:4);
 - `events` – сколько блюд суммарно было заказано за период.
 
-[**AB_task_2**](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/AB_test/AB_task_2.csv) (была обновлена кнопка заказа, и часть юзеров видела старый вариант, а часть – новый):
+[**Датасет 2**](https://github.com/ElenaAnalyst/projects_using_statistics/blob/main/AB_test/AB_task_2.csv) (была обновлена кнопка заказа, и часть юзеров видела старый вариант, а часть – новый):
 
 - `id` – id клиента в эксперименте;
 - `segment` – сегмент (high/low);
